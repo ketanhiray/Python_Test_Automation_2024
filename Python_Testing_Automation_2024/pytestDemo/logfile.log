@@ -1,0 +1,20 @@
+2024-03-07 16:20:38,846 :INFO : pytestDemo.test_logging : this is information statement 
+2024-03-07 16:20:38,846 :WARNING : pytestDemo.test_logging : This is warning
+2024-03-07 16:20:38,847 :ERROR : pytestDemo.test_logging : this is error stat.
+2024-03-07 16:20:38,847 :CRITICAL : pytestDemo.test_logging : somthing is critical
+2024-03-07 16:21:24,356 :DEBUG : pytestDemo.test_logging : This is debug statement
+2024-03-07 16:21:24,356 :INFO : pytestDemo.test_logging : this is information statement 
+2024-03-07 16:21:24,356 :WARNING : pytestDemo.test_logging : This is warning
+2024-03-07 16:21:24,356 :ERROR : pytestDemo.test_logging : this is error stat.
+2024-03-07 16:21:24,356 :CRITICAL : pytestDemo.test_logging : somthing is critical
+2024-03-07 17:28:29,503 :INFO : pytestDemo.BassClass : ketan
+2024-03-07 17:28:29,504 :INFO : pytestDemo.BassClass : Hiray
+2024-03-07 17:32:28,447 :INFO : test_loginData : ketan
+2024-03-07 17:32:28,447 :INFO : test_loginData : Hiray
+2024-03-07 17:33:07,167 :INFO : test_loginData : ketan
+2024-03-07 17:33:07,167 :INFO : test_loginData : Hiray
+2024-03-07 17:33:07,188 :DEBUG : pytestDemo.test_logging : This is debug statement
+2024-03-07 17:33:07,188 :INFO : pytestDemo.test_logging : this is information statement 
+2024-03-07 17:33:07,188 :WARNING : pytestDemo.test_logging : This is warning
+2024-03-07 17:33:07,188 :ERROR : pytestDemo.test_logging : this is error stat.
+2024-03-07 17:33:07,189 :CRITICAL : pytestDemo.test_logging : somthing is critical
