@@ -37,3 +37,30 @@ to install pytest
 for HTML reporting
 
 7.pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org pytest-html
+
+8.java -jar jenkins.war --httpPort=9999
+
+9. py.test --browser_name chrome --html=report.html
+
+ketanhiray
+Admin
+
+we need to run this command each time : java -jar jenkins.war
+
+Jenkin Confirgration >
+General>>
+Advance>>
+user custom workspace>>
+directory>>>D:\Ketan\pythonE2E_Framework\pythonProject
+
+Build>Execute Windows batch command>
+cd tests
+py.test --browser_name chrome --html=$WORKSPACE/Reports/report.html
+
+OR
+
+py.test --browser_name "$browserName" --html=$WORKSPACE/Reports/report.html -v --junitxml="result.xml"
+
+Post-Build Action>>
+Publish JUnit test result report
+tests/*.xml
