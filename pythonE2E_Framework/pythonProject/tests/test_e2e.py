@@ -3,7 +3,6 @@ from pageObjects.ConfirmPage import ConfirmPage
 from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
-
 class TestOne(BaseClass):
 
     def test_e2e(self):

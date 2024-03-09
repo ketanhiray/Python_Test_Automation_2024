@@ -36,3 +36,83 @@
 2024-03-09 12:49:36,840 :INFO : test_e2e : Entering Country Name
 2024-03-09 12:49:42,455 :INFO : test_e2e : Text received from dropdown 
 2024-03-09 12:49:43,138 :INFO : test_e2e : Test Completed 
+2024-03-09 12:59:01,446 :INFO : test_FormSubmission : Name is :Ketan
+2024-03-09 12:59:01,525 :INFO : test_FormSubmission : Eamil is :test@gmail.com
+2024-03-09 12:59:03,307 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 12:59:03,307 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 12:59:03,393 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 12:59:03,393 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 12:59:16,278 :INFO : test_e2e : Getting all Card Title
+2024-03-09 12:59:16,945 :INFO : test_e2e : Entering Country Name
+2024-03-09 12:59:22,385 :INFO : test_e2e : Text received from dropdown 
+2024-03-09 12:59:22,919 :INFO : test_e2e : Test Completed 
+2024-03-09 13:02:24,129 :INFO : test_FormSubmission : Name is :Ketan
+2024-03-09 13:02:24,375 :INFO : test_FormSubmission : Eamil is :test@gmail.com
+2024-03-09 13:02:25,462 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 13:02:25,462 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 13:02:25,714 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 13:02:25,714 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 13:02:33,100 :INFO : test_e2e : Getting all Card Title
+2024-03-09 13:02:33,532 :INFO : test_e2e : Entering Country Name
+2024-03-09 13:02:38,816 :INFO : test_e2e : Text received from dropdown 
+2024-03-09 13:02:39,218 :INFO : test_e2e : Test Completed 
+2024-03-09 13:06:33,029 :INFO : test_FormSubmission : Name is :Ketan
+2024-03-09 13:06:33,178 :INFO : test_FormSubmission : Eamil is :test@gmail.com
+2024-03-09 13:06:36,160 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 13:06:36,160 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 13:06:36,313 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 13:06:36,313 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 13:06:55,669 :INFO : test_e2e : Getting all Card Title
+2024-03-09 13:06:56,325 :INFO : test_e2e : Entering Country Name
+2024-03-09 13:07:01,902 :INFO : test_e2e : Text received from dropdown 
+2024-03-09 13:07:02,556 :INFO : test_e2e : Test Completed 
+2024-03-09 13:09:32,891 :INFO : test_FormSubmission : Name is :Ketan
+2024-03-09 13:09:32,973 :INFO : test_FormSubmission : Eamil is :test@gmail.com
+2024-03-09 13:09:35,156 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 13:09:35,156 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 13:09:35,319 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 13:09:35,319 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 13:09:50,488 :INFO : test_e2e : Getting all Card Title
+2024-03-09 13:09:51,070 :INFO : test_e2e : Entering Country Name
+2024-03-09 13:09:56,563 :INFO : test_e2e : Text received from dropdown 
+2024-03-09 13:09:57,080 :INFO : test_e2e : Test Completed 
+2024-03-09 13:12:33,339 :INFO : test_FormSubmission : Name is :Ketan
+2024-03-09 13:12:33,415 :INFO : test_FormSubmission : Eamil is :test@gmail.com
+2024-03-09 13:12:35,558 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 13:12:35,558 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 13:12:35,637 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 13:12:35,637 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 13:12:50,561 :INFO : test_e2e : Getting all Card Title
+2024-03-09 13:12:51,161 :INFO : test_e2e : Entering Country Name
+2024-03-09 13:12:56,636 :INFO : test_e2e : Text received from dropdown 
+2024-03-09 13:12:57,151 :INFO : test_e2e : Test Completed 
+2024-03-09 13:29:44,220 :INFO : test_FormSubmission : Name is :Ketan
+2024-03-09 13:29:44,402 :INFO : test_FormSubmission : Eamil is :test@gmail.com
+2024-03-09 13:29:48,252 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 13:29:48,252 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 13:29:48,497 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 13:29:48,497 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 13:30:17,882 :INFO : test_e2e : Getting all Card Title
+2024-03-09 13:30:18,686 :INFO : test_e2e : Entering Country Name
+2024-03-09 13:30:25,248 :INFO : test_e2e : Text received from dropdown 
+2024-03-09 13:30:25,866 :INFO : test_e2e : Test Completed 
+2024-03-09 17:05:15,179 :INFO : test_FormSubmission : Name is :Ketan
+2024-03-09 17:05:15,291 :INFO : test_FormSubmission : Eamil is :test@gmail.com
+2024-03-09 17:05:21,220 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 17:05:21,220 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 17:05:21,448 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 17:05:21,448 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 17:06:04,497 :INFO : test_e2e : Getting all Card Title
+2024-03-09 17:06:05,315 :INFO : test_e2e : Entering Country Name
+2024-03-09 17:06:11,387 :INFO : test_e2e : Text received from dropdown 
+2024-03-09 17:06:12,083 :INFO : test_e2e : Test Completed 
+2024-03-09 17:15:13,428 :INFO : test_FormSubmission : Name is :Ketan
+2024-03-09 17:15:13,557 :INFO : test_FormSubmission : Eamil is :test@gmail.com
+2024-03-09 17:15:16,629 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 17:15:16,629 :INFO : test_FormSubmission : Name is :Pallavi
+2024-03-09 17:15:16,846 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 17:15:16,846 :INFO : test_FormSubmission : Eamil is :test2@gmail.com
+2024-03-09 17:15:43,555 :INFO : test_e2e : Getting all Card Title
+2024-03-09 17:15:44,382 :INFO : test_e2e : Entering Country Name
+2024-03-09 17:15:50,473 :INFO : test_e2e : Text received from dropdown 
+2024-03-09 17:15:51,083 :INFO : test_e2e : Test Completed 
